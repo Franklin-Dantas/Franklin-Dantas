@@ -14,7 +14,6 @@
 
 <br/>
 
-<!-- Badges section -->
 <a href="https://github.com/Franklin-Dantas?tab=repositories&sort=stargazers">
   <img alt="Total Stars" title="Total de estrellas en GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Franklin-Dantas?color=7c3aed&style=for-the-badge&labelColor=5b21b6&logo=star"/>
 </a>
@@ -25,16 +24,14 @@
   <img alt="Profile Views" title="Visualizaciones del perfil" src="https://komarev.com/ghpvc/?username=Franklin-Dantas&color=8b5cf6&style=for-the-badge&label=VIEWS"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Astronaut GIF -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2Y2x6NHB5MnBxdWt3OGJ6bXB3NnJhcXBocWV4YnE3N3RzYnFyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPtjElfqwMOTbH2/giphy.gif" width="280" alt="Astronaut"/>
 
 </div>
 
 ##
 
-<!-- About Me Section -->
 <details open> 
   <summary><h2>🧑‍🚀 Sobre Mí</h2></summary>
   
@@ -82,7 +79,6 @@ const franklin = {
 
 ##
 
-<!-- Achievements Section -->
 <details align="center" open>
   <summary><h2>🏆 Logros & Proyectos</h2></summary>
   
@@ -112,7 +108,6 @@ const franklin = {
 
 ##
 
-<!-- Stats Section -->
 <details open> 
   <summary><h2>📊 Estadísticas & Actividad</h2></summary>
 
@@ -130,11 +125,9 @@ const franklin = {
 
 ##
 
-<!-- Skills Section -->
 <details open>
   <summary><h2>🚀 Habilidades Técnicas</h2></summary>
 
-  <!-- ================= CORE SKILLS ================= -->
   <h3>💎 Core Skills</h3>
   <p>
     <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=A855F7"></a>
@@ -147,7 +140,6 @@ const franklin = {
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=A855F7"></a>
   </p>
 
-  <!-- ================= INTELIGENCIA ARTIFICIAL ================= -->
   <h3>🤖 Inteligencia Artificial</h3>
   <p>
     <a href="#"><img alt="LLM" src="https://img.shields.io/badge/LLM-0d1117?style=for-the-badge&logo=openai&logoColor=9333ea"></a>
@@ -171,7 +163,6 @@ const franklin = {
     <a href="#"><img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt%20Engineering-0d1117?style=for-the-badge&logo=openai&logoColor=A855F7"></a>
   </p>
 
-  <!-- ================= LENGUAJES ================= -->
   <h3>💻 Lenguajes de Programación</h3>
   <p>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=A855F7"></a>
@@ -183,7 +174,6 @@ const franklin = {
     <a href="#"><img alt="Google Apps Script" src="https://img.shields.io/badge/Apps%20Script-0d1117?style=for-the-badge&logo=google&logoColor=A855F7"></a>
   </p>
 
-  <!-- ================= WEB ================= -->
   <h3>🌐 Web & Markup</h3>
   <p>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=A855F7"></a>
@@ -192,7 +182,6 @@ const franklin = {
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-0d1117?style=for-the-badge&logo=markdown&logoColor=A855F7"></a>
   </p>
 
-  <!-- ================= FRAMEWORKS ================= -->
   <h3>📚 Frameworks & Bibliotecas</h3>
   <p>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=A855F7"></a>
@@ -204,7 +193,6 @@ const franklin = {
     <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-0d1117?style=for-the-badge&logo=wordpress&logoColor=A855F7"></a>
   </p>
 
-  <!-- ================= DATABASE & CLOUD ================= -->
   <h3>☁️ Bases de Datos & Cloud</h3>
   <p>
     <a href="#"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-0d1117?style=for-the-badge&logo=databricks&logoColor=A855F7"></a>
@@ -219,7 +207,6 @@ const franklin = {
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-0d1117?style=for-the-badge&logo=github&logoColor=A855F7"></a>
   </p>
 
-  <!-- ================= TOOLS ================= -->
   <h3>🛠️ Herramientas & Entorno</h3>
   <p>
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows&logoColor=A855F7"></a>
@@ -241,7 +228,6 @@ const franklin = {
 
 ##
 
-<!-- Connect Section -->
 <div align="center">
   <h2>🌐 Conéctate Conmigo</h2>
   
