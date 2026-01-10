@@ -15,7 +15,7 @@
 <br/>
 
 <a href="https://github.com/Franklin-Dantas?tab=repositories&sort=stargazers">
-  <img alt="Total Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Franklin-Dantas?color=7c3aed&style=for-the-badge&labelColor=5b21b6&logo=star"/>
+  <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Franklin-Dantas?color=7c3aed&style=for-the-badge&labelColor=5b21b6&logo=github&logoColor=white"/>
 </a>
 <a href="https://github.com/Franklin-Dantas?tab=followers">
   <img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Franklin-Dantas?color=8b5cf6&labelColor=6d28d9&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
