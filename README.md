@@ -54,12 +54,12 @@
 <td width="50%" valign="top">
 
 ```js
-const franklin = {
+const FranklinDantas = {
   local: "Recife, PE - Brasil",
   formação: "Ciência da Computação",
   foco: [
     "IA",
-    "Full-Stack Dev",
+    "Dev. Full-Stack",
     "Engenharia de Dados"
   ],
   conquistas: [
