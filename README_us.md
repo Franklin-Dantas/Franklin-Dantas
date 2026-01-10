@@ -21,7 +21,7 @@
   <img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Franklin-Dantas?color=8b5cf6&labelColor=6d28d9&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
 </a>
 <a href="https://komarev.com/ghpvc/?username=Franklin-Dantas">
-  <img alt="Profile Views" title="Profile views" src="https://komarev.com/ghpvc/?username=Franklin-Dantas&color=8b5cf6&style=for-the-badge&label=VIEWS"/>
+  <img alt="Profile Views" title="Profile views" src="https://komarev.com/ghpvc/?username=Franklin-Dantas&color=7c3aed&style=for-the-badge&label=VIEWS"/>
 </a>
 
 <br/><br/>
