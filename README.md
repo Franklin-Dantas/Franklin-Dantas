@@ -82,8 +82,8 @@ const franklin = {
 
 ##
 
-<!-- Achievements Section -->
-<details align="center" open>
+  <!-- Achievements Section -->
+<details align="left" open>
   <summary><h2>🏆 Conquistas & Projetos</h2></summary>
   
   <table align="center">
