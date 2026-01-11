@@ -54,14 +54,18 @@
 const FranklinDantas = {
   local: "Recife, PE - Brasil",
   formação: "Ciência da Computação",
-  foco: [
-    "IA",
-    "Dev. Full-Stack",
-    "Engenharia de Dados"
-  ],
   conquistas: [
     "🏆 2º - NASA SpaceApps 2022",
     "🥉 Top 3 - Salto Excelência"
+  ],
+  interesses: [
+    "Automação",
+    "Sustentabilidade"
+  ],
+    foco: [
+    "IA",
+    "Dev. Full-Stack",
+    "Engenharia de Dados"
   ],
   idiomas: {
     pt: "Nativo",
