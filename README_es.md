@@ -54,15 +54,19 @@
 const franklin = {
   ubicación: "Recife, PE - Brasil",
   formación: "Ciencias de la Computación",
+  logros: [
+    "🏆 2.º - NASA SpaceApps 2022",
+    "🥉 Top 3 - Salto Excelência"
+  ],
+  intereses: [
+    "Automatización",
+    "Sostenibilidad"
+  ],
   enfoque: [
     "IA",
-    "Full-Stack Dev",
+    "Desarrollo Full-Stack",
     "Ingeniería de Datos"
-  ],
-  logros: [
-    "🏆 2º - NASA SpaceApps 2022",
-    "🥉 Top 3 - Premio Excelencia"
-  ],
+  ]
   idiomas: {
     pt: "Nativo",
     en: "Avanzado",
