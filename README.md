@@ -58,11 +58,7 @@ const FranklinDantas = {
     "🏆 2º - NASA SpaceApps 2022",
     "🥉 Top 3 - Salto Excelência"
   ],
-  interesses: [
-    "Automação",
-    "Sustentabilidade"
-  ],
-    foco: [
+  foco: [
     "IA",
     "Dev. Full-Stack",
     "Engenharia de Dados"
