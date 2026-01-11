@@ -58,10 +58,6 @@ Achievements: [
   "🏆 2nd - NASA SpaceApps 2022",
   "🥉 Top 3 - Salto Excelência"
 ],
-Interests: [
-  "Automation",
-  "Sustainability"
-],
 Focus: [
   "AI",
   "Full-Stack Dev",
