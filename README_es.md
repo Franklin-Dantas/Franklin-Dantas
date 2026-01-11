@@ -58,10 +58,6 @@ const franklin = {
     "🏆 2.º - NASA SpaceApps 2022",
     "🥉 Top 3 - Salto Excelência"
   ],
-  intereses: [
-    "Automatización",
-    "Sostenibilidad"
-  ],
   enfoque: [
     "IA",
     "Desarrollo Full-Stack",
