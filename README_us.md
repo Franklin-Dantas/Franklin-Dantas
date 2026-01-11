@@ -54,19 +54,23 @@
 const franklin = {
   location: "Recife, PE - Brazil",
   education: "Computer Science",
-  focus: [
-    "AI",
-    "Full-Stack Dev",
-    "Data Engineering"
-  ],
-  achievements: [
-    "🏆 2nd - NASA SpaceApps 2022",
-    "🥉 Top 3 - Excellence Award"
-  ],
-  languages: {
-    pt: "Native",
-    en: "Advanced",
-    es: "Advanced"
+Achievements: [
+  "🏆 2nd - NASA SpaceApps 2022",
+  "🥉 Top 3 - Salto Excelência"
+],
+Interests: [
+  "Automation",
+  "Sustainability"
+],
+Focus: [
+  "AI",
+  "Full-Stack Dev",
+  "Data Engineering"
+]
+languages: {
+  pt: "Native",
+  en: "Advanced",
+  es: "Advanced"
   }
 };
 ```
