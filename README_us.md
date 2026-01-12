@@ -255,7 +255,7 @@ languages: {
 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmthN3prd2h2YmtvZjhrNHcyNDFlc2x5a3FrdDhmbWRpZjdycXJ3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKncAzOchpYZib3Tz4/giphy.gif" width="400" alt="Star"/>
-  <br/><sub>⭐ If you liked what you saw, leave a star and follow my profiles!</sub><br/><br/>
+  <br/><sub>If you liked what you saw, leave a star and follow my profiles!</sub><br/><br/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4a1a6b,25:2d1b4e,50:1a1a3e,75:0f0f23,100:000000&height=240&section=footer"/>
