@@ -52,7 +52,6 @@
 
 ```js
 const franklin = {
-  ubicación: "Recife, PE - Brasil",
   formación: "Ciencias de la Computación",
   logros: [
     "🏆 2.º - NASA SpaceApps 2022",
