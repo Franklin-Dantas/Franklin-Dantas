@@ -52,7 +52,6 @@
 
 ```js
 const FranklinDantas = {
-  local: "Recife, PE - Brasil",
   formação: "Ciência da Computação",
   conquistas: [
     "🏆 2º - NASA SpaceApps 2022",
